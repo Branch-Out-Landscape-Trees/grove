@@ -321,7 +321,7 @@ const Home = () => {
                     </a>
 
                     <a
-                      href="mailto:zacharyfeight@gmail.com"
+                      href="mailto:zach@boltscape.com"
                       className="flex items-center space-x-4 p-4 bg-green-700/30 dark:bg-green-800/30 rounded-lg hover:bg-green-700/40 dark:hover:bg-green-800/40 transition-colors cursor-pointer block"
                     >
                       <div className="flex-shrink-0">
@@ -330,7 +330,7 @@ const Home = () => {
                       <div>
                         <p className="font-semibold text-white text-lg">Email</p>
                         <span className="text-green-200 dark:text-green-300 hover:text-white transition-colors text-lg font-medium">
-                          zacharyfeight@gmail.com
+                          zach@boltscape.com
                         </span>
                       </div>
                     </a>
