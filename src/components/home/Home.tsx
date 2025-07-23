@@ -73,7 +73,7 @@ const Home = () => {
             </div>
             <div className="relative">
               <img
-                src="https://canopy.boltscape.com/images/bolt-banner.png"
+                src="https://canopy.boltscape.com/images/bolt-banner-2.png"
                 alt="BOLT - Branch Out Landscape & Trees"
                 width={600}
                 height={500}
