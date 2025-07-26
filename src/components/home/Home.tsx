@@ -14,7 +14,7 @@ const Home = () => {
               <TreePine className="h-8 w-8" />
               <div>
                 <h1 className="text-2xl font-bold">Branch Out Landscape & Trees</h1>
-                <p className="text-green-200 dark:text-green-300 text-sm">BOLT</p>
+                <p className="text-green-200 dark:text-green-300 text-sm hidden sm:block">BOLT</p>
               </div>
             </div>
             {/* <nav className="hidden md:flex space-x-6">
