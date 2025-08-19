@@ -382,7 +382,7 @@ const Home = () => {
 
             <div className="text-center md:text-right">
               <p className="text-green-300 dark:text-green-400 text-sm transition-colors">
-                Website developed by{" "}
+                Website engineered by{" "}
                 <a
                   href="https://geelinsky.com"
                   className="text-white hover:text-green-200 dark:hover:text-green-300 transition-colors underline"
