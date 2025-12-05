@@ -33,7 +33,7 @@ const Home = () => {
               <Button
                 asChild
                 size="sm"
-                className="bg-green-600 hover:bg-green-700 dark:bg-green-500 dark:hover:bg-green-600 text-white"
+                className="hidden sm:flex bg-green-600 hover:bg-green-700 dark:bg-green-500 dark:hover:bg-green-600 text-white"
               >
                 <a href="tel:2544242553" className="flex items-center space-x-2">
                   <Phone className="h-4 w-4" />
